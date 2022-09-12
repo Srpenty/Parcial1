@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1", "Parcial1\Parcial1.csproj", "{B6B40796-B861-4684-AC5E-F91BEDE9359B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial1", "Parcial1\Parcial1.csproj", "{B6B40796-B861-4684-AC5E-F91BEDE9359B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialModificado", "ParcialModificado\ParcialModificado.csproj", "{5DC465E1-BC52-4845-8E1F-21A434219A07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B6B40796-B861-4684-AC5E-F91BEDE9359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B40796-B861-4684-AC5E-F91BEDE9359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B40796-B861-4684-AC5E-F91BEDE9359B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC465E1-BC52-4845-8E1F-21A434219A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC465E1-BC52-4845-8E1F-21A434219A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC465E1-BC52-4845-8E1F-21A434219A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC465E1-BC52-4845-8E1F-21A434219A07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
